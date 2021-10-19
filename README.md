@@ -34,7 +34,7 @@ Feel free to contact me to discuss any issues, questions, or comments.
 
 * Email: [memed.redhat@gmail.com](mailto:memed.redhat@gmail.com)
 * Twitter: [@BadrMemed](https://twitter.com/BadrMemed)
-* GitHub: [Badr](https://github.com/Badr-ML)
+* GitHub: [Badr](https://github.com/MLBadrdeep/ML-DL)
 * LinkedIn: [Badr](https://www.linkedin.com/in/badr-ml-26a0b2189/)
 
 
